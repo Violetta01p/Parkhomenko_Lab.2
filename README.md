@@ -1,13 +1,2 @@
 # Parkhomenko_Lab.2
-#include <iostream>
-using namespace std;
-int main()
-{
-int x=1;
-for(int i =1; i<=5; i++)
-x*=i;
-cout<<x;
-
-return 0;
-
-}
+https://docs.google.com/document/d/1-1Z-djMIadvJHYssRiMKUHp8C67fg-zRw1geGYwXw3A/edit
